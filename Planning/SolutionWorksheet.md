@@ -1,6 +1,8 @@
-# Solution Worksheet
+Solution Worksheet
+==================
 
-## Identify the potential services needed and the purpose for each service that will be used to move TigerMed's current environment to AWS
+Identify the potential services needed and the purpose for each service that will be used to move TigerMed's current environment to AWS
+---------------------------------------------------------------------------------------------------------------------------------------
 
 1. 2 Web Servers (EC2?) (Microsoft Windows Servers)
 2. 2 Application Servers (Microsoft Windows Servers) 
